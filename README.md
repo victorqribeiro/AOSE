@@ -8,7 +8,7 @@ You can watch the simulation [here](https://victorribeiro.com/esoa)
 
 ## Rules of the simulation
 
-### The criminal 
+## The criminal 
 * Moves randomly across the board in any four directions: up, down, left and right.
 * Has a 1/6 chances of starting a fire.
 * He can get trapped in his own fire.
