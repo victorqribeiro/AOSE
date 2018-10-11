@@ -6,7 +6,7 @@ This is my final project for the [AOSE](https://en.wikipedia.org/wiki/Agent-orie
 
 You can watch the simulation [here](https://victorribeiro.com/esoa)
 
-## Rules of the simulation
+## Meet The Agents
 
 ### The Criminal 
 * Moves randomly across the board in any four directions: up, down, left and right.
